@@ -198,7 +198,7 @@ const Sidebar = ({
             </List>
           </Box>
 
-          <Box position="absolute" bottom="0">
+          <Box marginTop="1rem" bottom="0">
             <Divider />
             <FlexBetween
               textTransform="none"
